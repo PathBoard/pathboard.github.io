@@ -29,3 +29,14 @@ extra_css:
 
 extra_javascript:
   - javascripts/extra.js
+
+site_url: https://pathboard.github.io/
+
+nav:
+  - Home: "../"
+  - Contact: "../contact"
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
