@@ -4,6 +4,7 @@ repo_name: Git repository
 repo_url: https://github.com/PathBoard/pathboard.github.io
 edit_uri: edit/main/docs/
 theme:
+  favicon: img/logo.png
   logo: img/logo.png
   icon:
     repo: fontawesome/brands/github
