@@ -1,9 +1,12 @@
 site_name: PathBoard
 copyright: Copyright &copy; 2022 Lucas RODRIGUEZ. All rights reserved
 repo_name: Git repository
-repo_url: https://github.com/PathBoard/
+repo_url: https://github.com/PathBoard/pathboard.github.io
+edit_uri: edit/main/docs/
 theme:
   logo: img/logo.png
+  icon:
+    repo: ontawesome/brands/github
   features:
     - navigation.tabs
     - navigation.tabs.sticky
