@@ -1,0 +1,18 @@
+site_name: PathBoard
+copyright: Copyright &copy; 2022 Lucas RODRIGUEZ. All rights reserved
+repo_name: Main Git repository
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: black
+      accent: green
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: green
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
