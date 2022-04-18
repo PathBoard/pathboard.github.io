@@ -2,6 +2,9 @@ site_name: PathBoard
 copyright: Copyright &copy; 2022 Lucas RODRIGUEZ. All rights reserved
 repo_name: Main Git repository
 theme:
+  font:
+    text: Lato
+    code: Roboto Mono
   name: material
   palette:
     - scheme: default
@@ -16,3 +19,8 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
