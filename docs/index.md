@@ -5,7 +5,7 @@
 # Welcome to PathBoard
 
 ## About
-**PathBoard** is a mobile and web application dedicated to analyze and monitor real-time and historical data from sport performances.
+**PathBoard** is a mobile and web application dedicated to analyze and monitor real-time and historical data from athletic performance.
 
 
 ## Contact
